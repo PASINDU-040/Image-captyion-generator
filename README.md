@@ -1,4 +1,4 @@
-![kjgh](https://github.com/user-attachments/assets/0e782c6e-b618-4a60-a4b3-12ece75d6c98)Introduction
+Introduction
 In recent years, there has been a growing interest in leveraging deep learning techniques to bridge the gap between computer vision and natural language understanding. Image captioning, a task that involves generating human-like descriptions for images, has emerged as a compelling application of this interdisciplinary research. By enabling machines to understand and describe visual content in natural language, image captioning holds promise for a wide range of applications, including assistive technologies for the visually impaired, content-based image retrieval, and enhancing human-computer interaction.​
 
 Project Goals
@@ -33,3 +33,4 @@ Evaluation and Fine-Tuning:
 ​We evaluate the model's performance using metrics such as BLEU score, which compares the generated captions with the reference captions. Hyperparameters like learning rate, batch size, and optimizer settings are fine-tuned to improve the model's performance on the validation set.
 
 Ouput
+![kjgh](https://github.com/user-attachments/assets/0e782c6e-b618-4a60-a4b3-12ece75d6c98)
